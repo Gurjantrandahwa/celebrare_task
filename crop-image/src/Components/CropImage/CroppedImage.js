@@ -56,7 +56,7 @@ const CroppedImage = ({img, setCloseImage}) => {
                             sx={{height: "auto"}}
                             p={"sm"}
                     >
-
+                        x
                     </Button>
                 </Group>
             </Stack>
